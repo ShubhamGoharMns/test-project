@@ -1,1 +1,1 @@
-const passtest = prompt("Session expired");
+alert("Session expired");
